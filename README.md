@@ -88,22 +88,6 @@ Você pode alterar os parâmetros e ver como afeta o comportamento:
 - Otimização financeira
 - Design de produtos
 
-## 🎮 Desafio
-
-Tente encontrar configurações que fazem o algoritmo:
-1. **Convergir rapidamente** (poucas iterações)
-2. **Encontrar soluções muito boas** (fitness baixo)
-3. **Funcionar com muitas casas** (100+ clientes)
-
-## 🤝 Contribua
-
-Quer melhorar o projeto? Algumas ideias:
-- Adicionar outros algoritmos (Genetic Algorithm, Simulated Annealing)
-- Criar obstáculos no mapa
-- Adicionar modo 3D
-- Exportar resultados
-- Comparar algoritmos lado a lado
-
 ---
 
 **Desenvolvido para demonstrar como algoritmos de otimização funcionam na prática! 🚀**
